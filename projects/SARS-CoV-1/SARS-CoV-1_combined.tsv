@@ -1,0 +1,81 @@
+AccessionID	CollectionDate	Location	Lineage
+Mu_EPI_ISL_1220045	2021-01-11	South America / Colombia / Magdalena	Mu
+Mu_EPI_ISL_17369648	2021-01-12	North America / USA / Florida	Mu
+Mu_EPI_ISL_3507370	2021-01-21	South America / Venezuela / Falcon	Mu
+Mu_EPI_ISL_5147062	2021-02-06	South America / Bolivia / Santa Cruz	Mu
+Mu_EPI_ISL_7829667	2020-12-15	South America / Colombia / Bogota	Mu
+Wuhan-Hu-1_EPI_ISL_402121	2019-12-30	Asia / China / Hubei / Wuhan	Wuhan-Hu-1
+Wuhan-Hu-1_EPI_ISL_402123	2019-12-24	Asia / China / Hubei / Wuhan	Wuhan-Hu-1
+Wuhan-Hu-1_EPI_ISL_402124	2019-12-30	Asia / China / Hubei / Wuhan	Wuhan-Hu-1
+Wuhan-Hu-1_EPI_ISL_403931	2019-12-30	Asia / China / Hubei / Wuhan	Wuhan-Hu-1
+Wuhan-Hu-1_EPI_ISL_406798	2019-12-26	Asia / China / Hubei / Wuhan	Wuhan-Hu-1
+XBB_EPI_ISL_16641134	2022-01-03	Europe / France / Provence-Alpes-Cote d’Azur / Var	XBB
+XBB_EPI_ISL_17152834	2022-01-04	North America / Haiti	XBB
+XBB_EPI_ISL_17152835	2022-01-05	North America / Haiti	XBB
+XBB_EPI_ISL_18060089	2022-01-07	North America / Haiti	XBB
+XBB_EPI_ISL_19135556	2021-03-01	Asia / Jordan / Amman	XBB
+DeltaPlus_EPI_ISL_2140237	2021-04-30	Europe / Poland / Zachodniopomorskie	DeltaPlus
+DeltaPlus_EPI_ISL_2140241	2021-05-06	Europe / Poland / Zachodniopomorskie	DeltaPlus
+DeltaPlus_EPI_ISL_2726813	2021-06-05	Europe / Poland / Zachodniopomorskie	DeltaPlus
+DeltaPlus_EPI_ISL_2726814	2021-06-06	Europe / Poland / Zachodniopomorskie	DeltaPlus
+DeltaPlus_EPI_ISL_2897106	2021-06-30	Europe / Poland / Zachodniopomorskie	DeltaPlus
+Alpha_EPI_ISL_15635981	2020-03-25	Europe / Spain / Andalusia / Granada	Alpha
+Alpha_EPI_ISL_2374676	2020-04-07	North America / USA / Michigan	Alpha
+Alpha_EPI_ISL_2374701	2020-04-12	North America / USA / Michigan	Alpha
+Alpha_EPI_ISL_2758533	2020-04-12	North America / USA / California / Contra Costa County	Alpha
+Alpha_EPI_ISL_3776297	2020-03-20	Europe / United Kingdom / England	Alpha
+Gamma_EPI_ISL_11359362	2020-05-06	South America / Brazil / Para / Belem	Gamma
+Gamma_EPI_ISL_15165686	2020-04-26	South America / Venezuela / Zulia	Gamma
+Gamma_EPI_ISL_15977585	2020-04-29	South America / Brazil / Rio de Janeiro	Gamma
+Gamma_EPI_ISL_2249957	2020-04-07	North America / USA / Illinois	Gamma
+Gamma_EPI_ISL_2612488	2020-04-23	North America / USA / Indiana	Gamma
+BA1_EPI_ISL_10442556	2021-01-01	Europe / United Kingdom / England	BA1
+BA1_EPI_ISL_10443745	2021-01-01	Europe / United Kingdom / England	BA1
+BA1_EPI_ISL_10456395	2021-01-01	Europe / United Kingdom / England	BA1
+BA1_EPI_ISL_10458494	2021-01-01	Europe / United Kingdom / England	BA1
+BA1_EPI_ISL_19139829	2020-05-13	Asia / Uzbekistan / Tashkent	BA1
+XBB.1.5_EPI_ISL_17077375	2021-10-08	North America / USA / New Jersey	XBB.1.5
+XBB.1.5_EPI_ISL_17195171	2022-01-03	North America / USA / New York	XBB.1.5
+XBB.1.5_EPI_ISL_17195173	2022-01-03	North America / USA / New York	XBB.1.5
+XBB.1.5_EPI_ISL_17503464	2021-11-22	Europe / Slovakia / Tvrdosin	XBB.1.5
+XBB.1.5_EPI_ISL_17532340	2021-10-04	Africa / South Africa / Gauteng	XBB.1.5
+Delta_EPI_ISL_11789806	2020-06-19	Africa / South Africa / Western Cape	Delta
+Delta_EPI_ISL_19361715	2020-06-27	North America / USA / Florida	Delta
+Delta_EPI_ISL_19361718	2020-06-27	North America / USA / Florida	Delta
+Delta_EPI_ISL_19361719	2020-06-27	North America / USA / Florida	Delta
+Delta_EPI_ISL_19537034	2020-04-26	Europe / United Kingdom	Delta
+EG5_EPI_ISL_18435360	2022-10-07	North America / Canada / Nova Scotia	EG5
+EG5_EPI_ISL_18438845	2022-10-10	North America / Canada / Nova Scotia	EG5
+EG5_EPI_ISL_18636675	2022-01-12	Europe / Italy	EG5
+EG5_EPI_ISL_18878960	2022-10-10	North America / Canada / Nova Scotia	EG5
+EG5_EPI_ISL_19237832	2021-12-22	Europe / Spain / Aragon / Zaragoza	EG5
+Lambda_EPI_ISL_19022049	2020-12-11	South America / Peru / Lima / Lima	Lambda
+Lambda_EPI_ISL_2158693	2020-11-08	South America / Argentina / Ciudad Autonoma de Buenos Aires	Lambda
+Lambda_EPI_ISL_5934936	2020-07-21	South America / Peru / Lima	Lambda
+Lambda_EPI_ISL_8889806	2020-12-17	South America / Peru / Lima / Lima	Lambda
+Lambda_EPI_ISL_8889807	2020-12-22	South America / Peru / Lima / Lima	Lambda
+SARS-CoV-1_NC_019843	2012-06-13	USA	SARS-CoV-1
+SARS-CoV-1_KF186564	2013-05-01		SARS-CoV-1
+SARS-CoV-1_KF186565	2013-04-22		SARS-CoV-1
+SARS-CoV-1_KF186566	2013-04-21		SARS-CoV-1
+SARS-CoV-1_KF186567	2013-05-09		SARS-CoV-1
+XBB.1.16_EPI_ISL_17709209	2022-10-10	North America / USA / California	XBB.1.16
+XBB.1.16_EPI_ISL_17735347	2022-05-13	North America / USA / California / Los Angeles County	XBB.1.16
+XBB.1.16_EPI_ISL_17763755	2022-05-18	North America / USA / Texas / Houston	XBB.1.16
+XBB.1.16_EPI_ISL_18496280	2022-08-01	Europe / Switzerland / Basel-Landschaft	XBB.1.16
+XBB.1.16_EPI_ISL_18682061	2021-11-19	Europe / Slovakia / Okres Zilina	XBB.1.16
+BA5_EPI_ISL_15393565	2021-10-04	North America / USA / South Carolina / Pickens	BA5
+BA5_EPI_ISL_16282940	2022-01-09	South America / Colombia / Antioquia / Envigado	BA5
+BA5_EPI_ISL_17190259	2022-01-01	Africa / Cameroon / Center Region	BA5
+BA5_EPI_ISL_18114980	2021-11-06	North America / USA / New York / Monroe County	BA5
+BA5_EPI_ISL_19235616	2021-12-22	Europe / Spain / Aragon / Zaragoza	BA5
+Beta_EPI_ISL_10980369	2020-02-18	Africa / Zambia / Choma / Macha	Beta
+Beta_EPI_ISL_10980370	2020-02-24	Africa / Zambia / Choma / Macha	Beta
+Beta_EPI_ISL_13283875	2020-05-06	Asia / Kyrgyzstan / Bishkek	Beta
+Beta_EPI_ISL_2274264	2020-03-27	Asia / Qatar / Doha	Beta
+Beta_EPI_ISL_2508437	2020-05-07	North America / USA / South Carolina / Laurens	Beta
+BA2_EPI_ISL_10467862	2021-01-01	Europe / United Kingdom / England	BA2
+BA2_EPI_ISL_12558774	2021-10-22	Europe / United Kingdom / Scotland	BA2
+BA2_EPI_ISL_13175155	2021-05-15	Asia / Philippines / Central Luzon	BA2
+BA2_EPI_ISL_13304887	2021-11-05	Europe / France / Ile-de-France / Yvelines	BA2
+BA2_EPI_ISL_18123268	2021-10-07	Asia / Pakistan / Attock	BA2

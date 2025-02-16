@@ -1,0 +1,6 @@
+Virus name	Accession ID	Collection date	Location	Host	Additional location information	Sampling strategy	Gender	Patient age	Patient status	Last vaccinated	Passage	Specimen	Additional host information	Lineage	Clade	AA Substitutions
+hCoV-19/Wuhan/IVDC-HB-05/2019	EPI_ISL_402121	2019-12-30	Asia / China / Hubei / Wuhan	Human			Male	32	unknown		Original	Alveolar lavage fluid		B	L	()
+hCoV-19/Wuhan/IPBCAMS-WH-01/2019	EPI_ISL_402123	2019-12-24	Asia / China / Hubei / Wuhan	Human			Male	65	unknown		Original	Bronchoalveolar lavage fluid		B	L	(NSP4_F145I,NSP3_N1890S)
+hCoV-19/Wuhan/WIV04/2019	EPI_ISL_402124	2019-12-30	Asia / China / Hubei / Wuhan	Human	Retailer at Huanan Seafood Wholesale Market		Female	49	Live		Original	Bronchoalveolar lavage fluid		B	L	()
+hCoV-19/Wuhan/IPBCAMS-WH-02/2019	EPI_ISL_403931	2019-12-30	Asia / China / Hubei / Wuhan	Human			Female	49	unknown		Original	Bronchoalveolar lavage fluid		B	L	()
+hCoV-19/Wuhan/WH01/2019	EPI_ISL_406798	2019-12-26	Asia / China / Hubei / Wuhan	Human			Male	44	unknown		Original	Bronchoalveolar Lavage NCIT:C51913		B	L	(NSP6_N264K,NSP3_L1417I)
